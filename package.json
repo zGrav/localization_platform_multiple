@@ -1,0 +1,10 @@
+{
+  "name": "localization_platform_multiple",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Pulls localization strings from multiple JSON files",
+  "main": "getLocalizedString.js",
+  "repository": "https://github.com/zGrav/localization_platform_multiple",
+  "author": "David Silva <zgrav@null.net>",
+  "license": "BSD 2-clause"
+}
